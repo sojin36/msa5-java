@@ -6,7 +6,7 @@ public class MainInterface {
         System.out.println(flyingFish.birth());
 
         Whale whale = new Whale();
-        System.out.println(whale.residence());
+//        System.out.println(whale.residence());
 
         Fish fish = new FlyingFish();
     }
